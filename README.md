@@ -7,5 +7,8 @@ Tech Stack:
 - TypeScript
 - Tailwind CSS
 
-Deployed under
+GitHub repository:
+https://github.com/Lucadmin/devboard
+
+Deployed under:
 https://devboard.luca-ilchen.de
